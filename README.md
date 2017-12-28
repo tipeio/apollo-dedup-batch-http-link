@@ -4,7 +4,7 @@ apollo-dedup-batch-http-link: batches multiple operations into a single HTTP ded
 [fixes apollo-link/issues/157](https://github.com/apollographql/apollo-link/issues/157)
 
 ```bash
-npm install --save apollo-link-dedup apollo-link-batch-http
+npm install --save apollo-link-dedup@1.0.0 apollo-link-batch-http
 
 npm install --save @tipe/apollo-dedup-batch-http-link
 ```
