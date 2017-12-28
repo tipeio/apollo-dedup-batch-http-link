@@ -2,6 +2,8 @@
 apollo-dedup-batch-http-link: batches multiple operations into a single HTTP dedup request. Instead of sending a single operation, it sends an array of operations to the server.
 
 ```bash
+npm install --save apollo-link-dedup apollo-link-batch-http
+
 npm install --save @tipe/apollo-dedup-batch-http-link
 ```
 
