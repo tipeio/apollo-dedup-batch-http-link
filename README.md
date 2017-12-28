@@ -1,6 +1,13 @@
 # @tipe/apollo-dedup-batch-http-link
 apollo-dedup-batch-http-link: batches multiple operations into a single HTTP dedup request. Instead of sending a single operation, it sends an array of operations to the server.
 
+```js
+npm install --save @tipe/apollo-dedup-batch-http-link
+```
+
+```js
+import { DedupBatchHttpLink } from '@tipe/apollo-dedup-batch-http-link'
+```
 
 combined `apollo-link-batch-http` and `apollo-link-dedup`  
 [apollo-link-batch-http README](https://github.com/apollographql/apollo-link/tree/master/packages/apollo-link-batch-http)  
