@@ -1,0 +1,19 @@
+{
+  "name": "@tipe/apollo-dedup-batch-http-link",
+  "version": "1.0.0",
+  "description": "apollo-dedup-batch-http-link: batches multiple operations into a single HTTP dedup request. Instead of sending a single operation, it sends an array of operations to the server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tipeio/apollo-dedup-batch-http-link.git"
+  },
+  "author": "PatrickJS <patrick@tipe.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tipeio/apollo-dedup-batch-http-link/issues"
+  },
+  "homepage": "https://github.com/tipeio/apollo-dedup-batch-http-link#readme"
+}
