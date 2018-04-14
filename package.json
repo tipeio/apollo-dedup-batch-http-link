@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tipeio/apollo-dedup-batch-http-link/issues"
   },
-  "homepage": "https://github.com/tipeio/apollo-dedup-batch-http-link#readme"
+  "homepage": "https://github.com/tipeio/apollo-dedup-batch-http-link#readme",
+  "dependencies": {
+    "apollo-fetch": "^0.7.0"
+  }
 }
