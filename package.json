@@ -1,6 +1,6 @@
 {
   "name": "@tipe/apollo-dedup-batch-http-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "apollo-dedup-batch-http-link: batches multiple operations into a single HTTP dedup request. Instead of sending a single operation, it sends an array of operations to the server.",
   "main": "index.js",
   "scripts": {
